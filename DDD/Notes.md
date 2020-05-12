@@ -1,10 +1,10 @@
 ### Chapter One
-* *Core Domain* - The core subdomain is the area of your product that will be the
+* **Core Domain** - The core subdomain is the area of your product that will be the
 difference between it being a success and it being a failure. Its the product's
 unique selling point, the reason it is being built rather than bought...It is
 vital that all of the team understand what the core domain is.
 
-* *Ubiqiutous language* - A common, rigorisly defined language defined by the
+* **Ubiqiutous language** - A common, rigorisly defined language defined by the
   team as a whole that prevents ambiguity and allows precise communication. Can
   be used to update domain models. https://archfirst.org/domain-driven-design-2-ubiquitous-language/
 
